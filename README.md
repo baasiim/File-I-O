@@ -1,15 +1,15 @@
-# 🧾 IT Inventory Manager (File I/O Project)
+# IT Inventory Manager (File I/O Project)
 
 A simple Python CLI application that allows users to record, view, and summarize IT equipment inventory. Uses file input/output to store and retrieve data persistently.
 
-## 💡 Features
+## Features
 
 - Accepts user input for equipment name, quantity, and price
 - Writes entries to a plain text file
 - Formats and displays data in a readable table
 - Calculates and prints the total inventory value
 
-## 🧪 Skills Demonstrated
+## Skills Demonstrated
 
 - File writing (`open`, `write`)
 - File reading and parsing (`split`, `int`, `float`)
@@ -17,13 +17,14 @@ A simple Python CLI application that allows users to record, view, and summarize
 - Input loops and sentinel control
 - Functional decomposition with `main()`
 
-## ▶️ How to Run
+## How to Run
 
-1. Run `inventory_manager.py` in any terminal
-2. Follow prompts to enter items (type `quit` to stop)
-3. Script will print your inventory and total value
+1. Run `IT_Inventory.py` in any terminal
+2. Create a .txt document named "toolbox.txt"
+3. Follow prompts to enter items (type `quit` to stop)
+4. Script will print your inventory and total value
 
-## 🔍 Sample Output
+## Sample Output
 
 ```
 IT Inventory
