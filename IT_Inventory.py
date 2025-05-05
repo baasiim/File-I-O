@@ -56,7 +56,7 @@ def summary(file):
 
 #Define main, assign a variable to the file, and call the 2 other functions.
 def main():
-    file = "homework.txt"
+    file = "toolbox.txt"
     writing_function(file)
     reading_function(file)
     summary(file)
